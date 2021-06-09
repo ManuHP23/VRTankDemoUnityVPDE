@@ -1,10 +1,12 @@
 # VRTankDemoUnityVPDE
 
-Adapatación a Realidad Virtual del Videojuego Demo de Unity Tanks!
+https://www.youtube.com/watch?v=-4FIhbkUmZA 
 
-Videojuegos para plataformas y dispositivos específicos.
+AdapataciÃ³n a Realidad Virtual del Videojuego Demo de Unity Tanks!
 
-Máster en Desarrollo de Videojuegos
+Videojuegos para plataformas y dispositivos especÃ­ficos.
+
+MÃ¡ster en Desarrollo de Videojuegos
 
 Universidad de La Laguna
  
